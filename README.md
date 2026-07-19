@@ -62,9 +62,9 @@ Estimar o valor FOB (`VL_FOB`, em US$) de uma operação de comércio exterior b
 
 | Integrante | Responsabilidade |
 |---|---|
-| [NOME 1] | Análise exploratória e compreensão dos dados (5.1–5.3) |
-| [NOME 2] | Pré-processamento, separação dos dados e modelos base (5.4–5.6 parte 1) |
-| [NOME 3] | Random Forest, comparação final, avaliação e documentação (5.6 parte 2–5.7) |
+| Wilson Junior | Análise exploratória e compreensão dos dados (5.1–5.3) |
+| Lucas Thiery | Pré-processamento, separação dos dados e modelos base (5.4–5.6 parte 1) |
+| João Bosco | Random Forest, comparação final, avaliação e documentação (5.6 parte 2–5.7) |
 
 ## 🎥 Vídeo
 
