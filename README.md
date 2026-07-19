@@ -27,9 +27,9 @@ Estimar o valor FOB (`VL_FOB`, em US$) de uma operação de comércio exterior b
 ```
 ├── README.md
 ├── notebooks/
-│   ├── 01_eda.ipynb                        # Seções 5.1 a 5.3 — Integrante 1
-│   ├── 02_modelagem_base.ipynb             # Seções 5.4, 5.5, 5.6 (parte 1) — Integrante 2
-│   └── 03_modelo_final_avaliacao.ipynb     # Seções 5.6 (parte 2), 5.7 — Integrante 3
+│   ├── 01_eda.ipynb                        # Seções 5.1 a 5.3 — Wilson junior
+│   ├── 02_modelagem_base.ipynb             # Seções 5.4, 5.5, 5.6 (parte 1) — Lucas Thiery
+│   └── 03_modelo_final_avaliacao.ipynb     # Seções 5.6 (parte 2), 5.7 — João Bosco
 └── Projeto_Final_ML_Comex.ipynb            # Notebook final consolidado (todas as seções)
 ```
 
