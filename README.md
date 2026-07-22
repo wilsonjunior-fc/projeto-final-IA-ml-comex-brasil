@@ -1,28 +1,28 @@
 # Projeto Final — Aprendizado de Máquina
 ## Estimativa do Valor FOB em Operações de Comércio Exterior do Brasil
 
-## 🎯 Objetivo
+## Objetivo
 
 Estimar o valor FOB (`VL_FOB`, em US$) de uma operação de comércio exterior brasileira a partir de características da transação (produto, país, UF, via de transporte, período etc.), identificando quais fatores mais influenciam o valor negociado.
 
-## 👥 Integrantes
+## Integrantes
 
 - Wilson Fernandes Carneiro Junior 
 - Lucas Thiery Oliveira dos Santos
 - João Bosco Montalvao Neto
 
-## 📊 Fonte dos dados
+## Fonte dos dados
 
 [Data of Brazilian Import and Export data](https://www.kaggle.com/datasets/juniorfazzio/data-of-brazilian-import-and-export-data) (Kaggle), compilado a partir do [Comex Stat / MDIC](http://comexstat.mdic.gov.br/pt/home) — banco SQLite com registros de exportação e importação do Brasil de 1997 a 2021.
 
-## 🧠 Tipo da tarefa
+## Tipo da tarefa
 
 **Regressão.** O atributo-alvo (`VL_FOB`) é uma variável numérica contínua, não representa categorias.
 
 - **Atributo-alvo:** `VL_FOB`
 - **Atributos preditivos:** `CO_ANO`, `CO_MES`, `CO_NCM`, `CO_PAIS`, `SG_UF_NCM`, `CO_VIA`, `CO_URF`, `QT_ESTAT`, `KG_LIQUIDO`, `TIPO_OPERACAO`
 
-## 📁 Organização dos arquivos
+## Organização dos arquivos
 
 ```
 ├── README.md
@@ -33,21 +33,21 @@ Estimar o valor FOB (`VL_FOB`, em US$) de uma operação de comércio exterior b
 └── Projeto_Final_ML_Comex.ipynb            # Notebook final consolidado (todas as seções)
 ```
 
-## ▶️ Como rodar no Google Colab
+## Como rodar no Google Colab
 
 1. Abra o notebook desejado no [Google Colab](https://colab.research.google.com) (Arquivo → Abrir notebook → GitHub → colar o link deste repositório).
 2. Gere seu próprio token de API do Kaggle: [kaggle.com](https://www.kaggle.com) → avatar → **Settings** → aba **API** → **Generate New Token**.
 3. No Colab, clique no ícone de chave 🔑 (Secrets) na barra lateral esquerda → **Add new secret** → nome exatamente `KAGGLE_API_TOKEN` → cole o valor do token → ative **Notebook access**.
 4. Rode as células em ordem (Ambiente de execução → Executar tudo). O notebook baixa o dataset automaticamente via `kagglehub`, sem necessidade de upload manual.
 
-## 🤖 Modelos utilizados
+## Modelos utilizados
 
 - Baseline (preditor ingênuo)
 - Regressão Linear
 - Árvore de Decisão
 - Random Forest
 
-## 📈 Principais resultados
+## Principais resultados
 
 *(preencher após a avaliação final: MAE, MSE, RMSE e R² do modelo escolhido)*
 
@@ -58,7 +58,7 @@ Estimar o valor FOB (`VL_FOB`, em US$) de uma operação de comércio exterior b
 | Árvore de Decisão | | | | |
 | Random Forest | | | | |
 
-## 🙋 Divisão das contribuições
+## Divisão das contribuições
 
 | Integrante | Responsabilidade |
 |---|---|
@@ -66,7 +66,7 @@ Estimar o valor FOB (`VL_FOB`, em US$) de uma operação de comércio exterior b
 | Lucas Thiery | Pré-processamento, separação dos dados e modelos base (5.4–5.6 parte 1) |
 | João Bosco | Random Forest, comparação final, avaliação e documentação (5.6 parte 2–5.7) |
 
-## 🎥 Vídeo
+## Vídeo
 
 [Link do vídeo explicativo]
 
