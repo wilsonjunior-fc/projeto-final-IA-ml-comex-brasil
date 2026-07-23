@@ -35,7 +35,7 @@ O trabalho foi desenvolvido em um único notebook, dividido internamente por se�
 
 1. Abra o notebook `Projeto_Final_IA.ipynb` no [Google Colab](https://colab.research.google.com) (Arquivo → Abrir notebook → GitHub → colar o link deste repositório).
 2. Gere seu próprio token de API do Kaggle: [kaggle.com](https://www.kaggle.com) → avatar → **Settings** → aba **API** → **Generate New Token**.
-3. No Colab, clique no ícone de chave 🔑 (Secrets) na barra lateral esquerda → **Add new secret** → nome exatamente `KAGGLE_API_TOKEN` → cole o valor do token → ative **Notebook access**.
+3. No Colab, clique no ícone de chave (Secrets) na barra lateral esquerda → **Add new secret** → nome exatamente `KAGGLE_API_TOKEN` → cole o valor do token → ative **Notebook access**.
 4. Rode as células em ordem (Ambiente de execução → Executar tudo). O notebook baixa o dataset automaticamente via `kagglehub`, sem necessidade de upload manual.
 
 **Atenção:** a etapa de treinamento do Random Forest final (seção 5.7) leva cerca de 30 minutos para concluir. É esperado — não indica travamento.
