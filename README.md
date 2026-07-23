@@ -86,8 +86,10 @@ O Random Forest final foi treinado no conjunto de treino completo (100 árvores,
 [Link do vídeo explicativo]
 
 ## Declaração de uso de Inteligência Artificial
+**Ferramentas utilizadas:** Gemini e Claude Code.
 
-- **Ferramentas utilizadas:** Claude (Anthropic) e Gemini.
-- **Finalidade:** apoio na estruturação do notebook, geração e revisão de código, depuração de erros (incluindo problemas de memória/RAM no Colab) e auxílio na interpretação de resultados estatísticos e gráficos.
-- **Parte do trabalho em que foram utilizadas:** todas as etapas do notebook — análise exploratória (seções 5.1 a 5.3), pré-processamento e modelagem (seções 5.4 a 5.6) e avaliação final (seção 5.7).
-- **Forma de verificação:** todo código sugerido foi executado e validado pelo grupo antes de ser incorporado ao notebook. Resultados numéricos, gráficos e interpretações foram conferidos manualmente por cada integrante responsável por sua respectiva seção, garantindo que refletem os dados reais analisados.
+**Finalidade:** aprimoramento de conceitos de Aprendizado de Máquina, revisão de código e apoio na depuração (debug) de erros durante o desenvolvimento.
+
+**Parte do trabalho em que foram utilizadas:** etapas de análise exploratória, pré-processamento e modelagem (seções 5.4 a 5.6), incluindo revisão de trechos de código e discussão de decisões técnicas (como transformação do alvo e configuração de hiperparâmetros).
+
+**Forma de verificação:** todo código sugerido foi executado e validado pelo grupo antes de ser incorporado ao notebook, com os resultados (métricas, tempos de execução e saídas impressas) conferidos manualmente para confirmar que correspondiam ao esperado.
