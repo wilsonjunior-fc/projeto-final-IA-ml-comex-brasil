@@ -84,7 +84,7 @@ O Random Forest final foi treinado no conjunto de treino completo (100 árvores,
 
 ## Vídeo
 
-https://drive.google.com/drive/folders/1VsvixElJJcRLEORMGEeZEjBqmCwBTnl2?usp=sharing
+https://drive.google.com/file/d/1A32DdUGk2ovyp3bgkAxLAHLDdU_EXYgi/view?usp=sharing
 
 ## Declaração de uso de Inteligência Artificial
 **Ferramentas utilizadas:** Gemini e Claude Code.
