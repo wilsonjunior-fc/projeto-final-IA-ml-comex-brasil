@@ -7,9 +7,10 @@ Estimar o valor FOB (`VL_FOB`, em US\$) de uma operação de comércio exterior 
 
 ## Integrantes
 
-- Wilson Fernandes Carneiro Junior
-- Lucas Thiery Oliveira dos Santos
 - João Bosco Montalvão Neto
+- Lucas Thiery Oliveira dos Santos
+- Wilson Fernandes Carneiro Junior
+
 
 ## Fonte dos dados
 
