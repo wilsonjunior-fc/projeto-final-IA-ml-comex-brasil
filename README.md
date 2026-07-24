@@ -27,7 +27,7 @@ Estimar o valor FOB (`VL_FOB`, em US\$) de uma operação de comércio exterior 
 
 ```
 ├── README.md
-└── Projeto_Final_IA.ipynb    # Notebook único, com todas as seções (5.1 a 5.7)
+└── previsao_valor_fob_comex.ipynb    # Notebook único, com todas as seções (5.1 a 5.7)
 ```
 
 O trabalho foi desenvolvido em um único notebook, dividido internamente por seções (5.1 a 5.7), com cada seção sinalizando o integrante responsável. A divisão de responsabilidades está detalhada na tabela "Divisão das contribuições" abaixo.
